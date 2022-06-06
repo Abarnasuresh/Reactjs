@@ -9,9 +9,15 @@
 // );
 // root.render(
 //   <React.StrictMode>
+<<<<<<< HEAD
 //     <App />
 //   </React.StrictMode> 
 // ); 
+=======
+//     <App /> 
+//   </React.StrictMode>
+// );
+>>>>>>> bd72a73710894854f1c3c8da3438efaf2d3d934d
 
 // // If you want to start measuring performance in your app, pass a function
 // // to log results (for example: reportWebVitals(console.log))
