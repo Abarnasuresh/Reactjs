@@ -28,7 +28,7 @@ import React from "react"
 import Navbar from "../src/components/Navbar"
 import Hero from   "../src/components/Hero"
 import Card from "../src/components/card"
-import data from "./data"
+import data from "./data" 
 
 import "./style.css"
 
@@ -61,4 +61,4 @@ export default function App() {
         </div>
             
     )
-}
+} 
